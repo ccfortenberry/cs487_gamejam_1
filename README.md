@@ -17,3 +17,8 @@ Head to the releases section and download the most current release.
 Gamepad is supported too:
 + Movement: L-stick
 + Restart: Start
+
+## Assets used I didn't make
+
++ Big Car Theft : Jason Shaw
++ Game Over Song : Solgryn, "I Wanna Be The Boshy"
