@@ -200,7 +200,7 @@ int main(int argc, char** argv) {
     input.axis1X = &xaxisCommand;
     input.axis1Y = &yaxisCommand;
 
-    //context.addSearchPath("./assets");
+    context.addSearchPath("./assets");
     context.addSearchPath("../assets");
     SDL_Texture* testPNG = context.loadImage("godzilla.png");
     SDL_Texture* testJPG = context.loadImage("parrot.jpg");
